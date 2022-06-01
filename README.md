@@ -8,3 +8,9 @@
 - nn.ReLU(): 一種激活函數。
 ## 3. Create the policy
 "'{Python}<space>{123}"'
+  
+  
+
+https://user-images.githubusercontent.com/62320138/171365214-e1a5b699-26e5-4367-819e-06e56a8e99fb.mp4
+
+
