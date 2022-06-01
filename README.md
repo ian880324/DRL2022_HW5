@@ -1,4 +1,5 @@
-# 2022_DRL
+# NCHU 2022_DRL 深度強化學習 HW5
+# 資工碩一 7110056189 洪以恩
 # 2022.06.01 Update MountainCar-v0
 ## 1. Setup Environment (安裝必要的環境資源)
 - !apt-get install -y xvfb
