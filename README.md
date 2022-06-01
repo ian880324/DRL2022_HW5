@@ -9,6 +9,7 @@
 ## 3. Create the policy
 - 本篇是使用Greedy Policy。
 # MountainCar 環境介紹
+參考: https://mathpretty.com/14172.html
 - 這裡介紹一個 OpenAI 中的環境，MountainCar-v0。該環境是一輛汽車在一維軌道上，位於兩座「山」之間。目標是在右邊開車上山；然而，這輛車的引擎不夠強勁，無法一次性翻越這座山。因此，成功的唯一方法是 "來回驅動" 以積聚動力。
 - 在 MountainCar-v0 環境中，action是離散值，有三個不同的選項，分別是0 表示「向左行駛」，1 表示「停止」，2 表示「向右行駛」。
 - Observation由兩個值表示，分別是position, velocity，表示「小車當前的位置」和「小車當前的速度」。
